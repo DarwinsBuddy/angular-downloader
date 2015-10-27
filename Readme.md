@@ -50,7 +50,7 @@ Add the ```720kb.downloader``` module dependency
 
 ```js
 angular.module('app', [
-  '720kb.downloader
+  '720kb.downloader'
  ]);
 ```
 
